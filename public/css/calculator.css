@@ -1,0 +1,22 @@
+
+.col1{
+	background-color: #ebe7e7;
+	border-bottom: 1px solid #989aaa;
+	border-right: 1px solid #989aaa;
+	text-align: center;
+}
+
+.col2{
+	background-color: orange;
+	border-bottom: 1px solid #989aaa;
+	border-right: 1px solid #989aaa;
+	text-align: center;
+}
+.col3{
+	background-color: #989aaa;
+	border-bottom: 1px solid #989aaa;
+}
+
+body{
+	margin: 3rem 20rem;
+}
